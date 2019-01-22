@@ -1,0 +1,23 @@
+{
+  "name": "mpp-proxy-server",
+  "version": "1.0.0",
+  "description": "Connect to Multiplayer Piano with a proxy on Heroku, repl.it, OpenShift, Glitch, etc",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charsy89/mpp-proxy-server.git"
+  },
+  "author": "ledlamp89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charsy89/mpp-proxy-server/issues"
+  },
+  "homepage": "https://github.com/Charsy89/mpp-proxy-server#readme"
+}

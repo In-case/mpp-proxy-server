@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Charsy89/mpp-proxy-server/issues"
   },
-  "homepage": "https://github.com/Charsy89/mpp-proxy-server#readme"
+  "homepage": "https://github.com/Charsy89/mpp-proxy-server#readme",
+  "scripts": {
+    "start": "node index.js"
+  }
 }

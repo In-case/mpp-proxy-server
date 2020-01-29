@@ -22,6 +22,8 @@ Query parameters may or may not be encoded, but querystring chars (`&` and `=`) 
 
 To use with MPP in browser, paste into console:
 
+```
 MPP.client.stop();
 MPP.client.uri = "ws://localhost:8080/?target=ws://www.multiplayerpiano.com:443&origin=http://www.multiplayerpiano.com";
 MPP.client.start();
+```
